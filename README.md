@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Cool sites you should definitely check out
-- [🏠 vizitys.github.io](https://vinski.fi) (still WIP)
+- [🏠 vinski.fi](https://vinski.fi) (my personal portfolio site, still heavily WIP)
 - [🔗 Hallabois Github page](https://github.com/hallabois)
 
 #### Contact info
