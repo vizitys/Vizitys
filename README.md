@@ -7,3 +7,5 @@
 #### Contact info
 - [📫 contact@vinski.fi](mailto:contact@vinski.fi)
 - 💬 Discord: vizitys#0626
+
+![Profile Views](https://komarev.com/ghpvc/?username=vizitys&color=55198b)
